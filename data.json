@@ -1,0 +1,41 @@
+{
+  "question": [
+    "Q1. Which factor is the most important item when it comes to ensuring security is successful in an organization?",
+    "Q2. Many privacy laws dictate which of the following rules?",
+    "Q3. Which of the following is not addressed by the data retention policy?",
+    "Q4. Which of the following best describes the mitigation of data remanence by an overwriting process?"
+  ],
+  "answer": [
+    1,
+    4,
+    2,
+    1
+  ],
+  "options": [
+
+    [
+      "Senior management support",
+      "Effective controls and implementation methods",
+      "Updated and relevant security policies and procedures",
+      "Security awareness by all employees"
+    ],
+    [
+      "Individuals have a right to remove any data they do not want others to know.",
+      "Agencies do not need to ensure that the data is accurate.",
+      "Agencies need to allow all government agencies access to the data.",
+      "Agencies cannot use collected data for a purpose different from what they were collected for."
+    ],
+    [
+      "What data to keep",
+      "For whom data is kept",
+      "How long data is kept",
+      "Where data is kept"
+    ],
+    [
+      "Replacing the 1s and 0's that represent data on storage media with random or fixed patterns of 1s and 0s",
+      "Converting the 1s and 0s that represent data with the output of a cryptographic function",
+      "Removing or reducing the magnetic field patterns on conventional disk drives or tapes",
+      "Exposing storage media to caustic or corrosive chemicals that render it unusable"
+    ]
+  ]
+}
